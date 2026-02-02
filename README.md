@@ -1,4 +1,4 @@
-# 5. Démonstration de la réécriture OULIPO
+# Démonstration de la réécriture OULIPO
 
 ## Texte Original
 > Le chat noir traverse silencieusement le jardin à la recherche d'une souris.
