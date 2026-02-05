@@ -8,7 +8,6 @@
 
 ---
 
-## Versions Transformées (Probabilité : 60%)
 
 ### Version 1 : 'Random' (Aléatoire)
 **Stratégie :** Navigation bidirectionnelle (Hypernymes ou Hyponymes au hasard).
